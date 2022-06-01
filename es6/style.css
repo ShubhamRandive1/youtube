@@ -1,0 +1,124 @@
+
+  #header {
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 3rem;
+  }
+  #header:hover {
+    cursor: pointer;
+  }
+  #icon {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    /* border: 1px solid black; */
+  }
+  #homeIcon {
+    margin-left: 15%;
+  }
+  #utubeIcon img {
+    height: 3rem;
+    width: 7rem;
+    margin-left: 15%;
+  }
+
+
+  #frames {
+    margin-top: 1rem;
+    width: 300px;
+    height: 170px;
+  }
+  
+  #search-box span i {
+    border-radius: 15%;
+    margin-left: 1rem;
+ 
+  }
+  #search-box > #query {
+    width: 550px;
+    height: 2.2rem;
+  }
+  #submt {
+      
+    height: 4.5vh;
+    padding-top: -2rem;
+    width: 60px;
+  }
+  #search-box ::placeholder {
+    color: rgb(2, 2, 2);
+    font-size: 1.2em;
+    font-weight: 530;
+  }
+
+  #search-box {
+    align-items: center;
+   
+  }
+  #alert {
+    width: 250px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  #iconWithvideo {
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+  }
+  #logoIcon {
+    display: flex;
+    flex-direction: column;
+    width: px;
+  
+  }
+  
+  #logoIcon > div {
+    margin-top: 55%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #logoIcon div :hover {
+    cursor: pointer;
+    
+  }
+  #logoIcon p {
+    font-size: 0.7rem;
+  }
+  #logoIcon .n {
+    margin-left: 20%;
+  }
+  #videoes {
+    width: 95%;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1%;
+    margin-left: 10%;
+    border-radius: 10vh;
+    background-color: rgb(255, 255, 255);
+    color: white;
+  }
+  #frames{
+    border:none;
+  }
+  #divOf_ {
+    /* border: 1px solid red; */
+    box-sizing: border-box;
+  }
+  
+  #videoname {
+    margin-left: 1rem;
+    font-size: 1rem;
+  }
+  #channel {
+    margin-left: 1rem;
+    margin-top: -3%;
+    font-family: sans-serif;
+  }
+  #videos>iframe{
+      border-radius:2vh;
+  }
