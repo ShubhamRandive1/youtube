@@ -11,6 +11,8 @@ yoututbe page created using fetch tool with google Api
 <br>
 <h3>Can Watch multiple Videos in same window and have fullscreen functionility implemented whil the user can search any free video without hassel of advitisement</h3>
 <br>
-<br>
-![Screenshot (718)](https://user-images.githubusercontent.com/57911117/193192460-2c766de4-eeb3-4805-a8b5-8096ecd57ed1.png)
-<br>
+</br>
+
+![Screenshot (718)](https://user-images.githubusercontent.com/57911117/193192588-547954fc-9002-4ffe-8b92-875bb570e61c.png)
+
+</br>
