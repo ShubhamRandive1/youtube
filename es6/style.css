@@ -6,7 +6,7 @@
     align-items: center;
     height: 3rem;
   }
-  #header:hover {
+  #header: hover {
     cursor: pointer;
   }
   #icon {
@@ -48,7 +48,7 @@
     width: 60px;
   }
   #search-box ::placeholder {
-    color: rgb(2, 2, 2);
+    color: rgb(3, 2, 2);
     font-size: 1.2em;
     font-weight: 530;
   }
