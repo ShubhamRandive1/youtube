@@ -4,7 +4,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 3rem;
+    height: 4rem;
   }
   #header: hover {
     cursor: pointer;
